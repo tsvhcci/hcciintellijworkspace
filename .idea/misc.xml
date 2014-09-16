@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/HCCIApp" />
+  </component>
+  <component name="IdProvider" IDEtalkID="637E47DB155B44347CF3275EBB345CB2" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LibraryPom/pom.xml" />
+        <option value="$PROJECT_DIR$/CareBundleBinding/pom.xml" />
+        <option value="$PROJECT_DIR$/CareBundleService/pom.xml" />
+        <option value="$PROJECT_DIR$/CareBundleCore/pom.xml" />
+        <option value="$PROJECT_DIR$/HCCIApp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

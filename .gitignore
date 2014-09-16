@@ -60,11 +60,6 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
-# linux
-# https://raw.github.com/github/gitignore/master/Global/Linux.gitignore
-.*
-!.gitignore
-*~
 
 # vim
 # https://raw.github.com/github/gitignore/master/Global/vim.gitignore
